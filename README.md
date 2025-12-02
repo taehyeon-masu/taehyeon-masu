@@ -1,7 +1,7 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
+  ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=200&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
   
 </div>
 
@@ -87,9 +87,9 @@
   <br/>
   <br/>
   
+</div>
+
   ## 🤔 Github Stats
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taehyeon-masu)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taehyeon-masu)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>

@@ -90,6 +90,6 @@
 </div>
 
   ## 🤔 Github Stats
-  [![Taehyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=taehyeon-masu)](https://github.com/taehyeon-masu/github-readme-stats)
+  [![Taehyeon's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=taehyeon-masu)](https://github.com/taehyeon-masu/github-readme-stats)
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taehyeon-masu)](https://github.com/taehyeon-masu/github-readme-stats)
+  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=taehyeon-masu)](https://github.com/taehyeon-masu/github-readme-stats)
